@@ -1,2 +1,2 @@
 # novelGFL
-This is the Matlab code for the novel Graph Fused Lasso.
+Matlab/python code for the novel Graph Fused Lasso(https://arxiv.org/abs/1908.02370).
