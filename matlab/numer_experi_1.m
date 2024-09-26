@@ -1,3 +1,5 @@
+% admm.m is the Algorithm 1 of "A graph decomposition-based approach for the graph-fused lasso"
+
 clear
 rng(1);
 y = zeros(100,2);
